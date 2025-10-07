@@ -61,7 +61,7 @@ a {
   font-weight: 800;
   letter-spacing: 0.2px;
 }
-.logo {
+/* .logo {
   width: 26px;
   height: 26px;
   border-radius: 8px;
@@ -75,7 +75,7 @@ a {
   );
   box-shadow: 0 0 24px rgba(126, 154, 255, 0.35),
     inset 0 0 1px rgba(255, 255, 255, 0.2);
-}
+} */
 .age-pill {
   display: flex;
   align-items: center;
